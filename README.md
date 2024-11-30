@@ -1,1 +1,1 @@
-# C-sharp
+# I'm starting to study C# and I'm going to upload my tests, exercises and projects here

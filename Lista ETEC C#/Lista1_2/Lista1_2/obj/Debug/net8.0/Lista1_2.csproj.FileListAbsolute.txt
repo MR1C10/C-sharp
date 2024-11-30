@@ -1,0 +1,28 @@
+C:\Users\10940\Desktop\Lista ETEC C#\Lista1_2\Lista1_2\obj\Debug\net8.0\Lista1_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\10940\Desktop\Lista ETEC C#\Lista1_2\Lista1_2\obj\Debug\net8.0\Lista1_2.AssemblyInfoInputs.cache
+C:\Users\10940\Desktop\Lista ETEC C#\Lista1_2\Lista1_2\obj\Debug\net8.0\Lista1_2.AssemblyInfo.cs
+C:\Users\10940\Desktop\Lista ETEC C#\Lista1_2\Lista1_2\obj\Debug\net8.0\Lista1_2.csproj.CoreCompileInputs.cache
+C:\Users\10940\Desktop\Lista ETEC C#\Lista1_2\Lista1_2\bin\Debug\net8.0\Lista1_2.exe
+C:\Users\10940\Desktop\Lista ETEC C#\Lista1_2\Lista1_2\bin\Debug\net8.0\Lista1_2.deps.json
+C:\Users\10940\Desktop\Lista ETEC C#\Lista1_2\Lista1_2\bin\Debug\net8.0\Lista1_2.runtimeconfig.json
+C:\Users\10940\Desktop\Lista ETEC C#\Lista1_2\Lista1_2\bin\Debug\net8.0\Lista1_2.dll
+C:\Users\10940\Desktop\Lista ETEC C#\Lista1_2\Lista1_2\bin\Debug\net8.0\Lista1_2.pdb
+C:\Users\10940\Desktop\Lista ETEC C#\Lista1_2\Lista1_2\obj\Debug\net8.0\Lista1_2.dll
+C:\Users\10940\Desktop\Lista ETEC C#\Lista1_2\Lista1_2\obj\Debug\net8.0\refint\Lista1_2.dll
+C:\Users\10940\Desktop\Lista ETEC C#\Lista1_2\Lista1_2\obj\Debug\net8.0\Lista1_2.pdb
+C:\Users\10940\Desktop\Lista ETEC C#\Lista1_2\Lista1_2\obj\Debug\net8.0\Lista1_2.genruntimeconfig.cache
+C:\Users\10940\Desktop\Lista ETEC C#\Lista1_2\Lista1_2\obj\Debug\net8.0\ref\Lista1_2.dll
+C:\Users\mauri\OneDrive\Área de Trabalho\Lista ETEC C#\Lista1_2\Lista1_2\bin\Debug\net8.0\Lista1_2.exe
+C:\Users\mauri\OneDrive\Área de Trabalho\Lista ETEC C#\Lista1_2\Lista1_2\bin\Debug\net8.0\Lista1_2.deps.json
+C:\Users\mauri\OneDrive\Área de Trabalho\Lista ETEC C#\Lista1_2\Lista1_2\bin\Debug\net8.0\Lista1_2.runtimeconfig.json
+C:\Users\mauri\OneDrive\Área de Trabalho\Lista ETEC C#\Lista1_2\Lista1_2\bin\Debug\net8.0\Lista1_2.dll
+C:\Users\mauri\OneDrive\Área de Trabalho\Lista ETEC C#\Lista1_2\Lista1_2\bin\Debug\net8.0\Lista1_2.pdb
+C:\Users\mauri\OneDrive\Área de Trabalho\Lista ETEC C#\Lista1_2\Lista1_2\obj\Debug\net8.0\Lista1_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mauri\OneDrive\Área de Trabalho\Lista ETEC C#\Lista1_2\Lista1_2\obj\Debug\net8.0\Lista1_2.AssemblyInfoInputs.cache
+C:\Users\mauri\OneDrive\Área de Trabalho\Lista ETEC C#\Lista1_2\Lista1_2\obj\Debug\net8.0\Lista1_2.AssemblyInfo.cs
+C:\Users\mauri\OneDrive\Área de Trabalho\Lista ETEC C#\Lista1_2\Lista1_2\obj\Debug\net8.0\Lista1_2.csproj.CoreCompileInputs.cache
+C:\Users\mauri\OneDrive\Área de Trabalho\Lista ETEC C#\Lista1_2\Lista1_2\obj\Debug\net8.0\Lista1_2.dll
+C:\Users\mauri\OneDrive\Área de Trabalho\Lista ETEC C#\Lista1_2\Lista1_2\obj\Debug\net8.0\refint\Lista1_2.dll
+C:\Users\mauri\OneDrive\Área de Trabalho\Lista ETEC C#\Lista1_2\Lista1_2\obj\Debug\net8.0\Lista1_2.pdb
+C:\Users\mauri\OneDrive\Área de Trabalho\Lista ETEC C#\Lista1_2\Lista1_2\obj\Debug\net8.0\Lista1_2.genruntimeconfig.cache
+C:\Users\mauri\OneDrive\Área de Trabalho\Lista ETEC C#\Lista1_2\Lista1_2\obj\Debug\net8.0\ref\Lista1_2.dll

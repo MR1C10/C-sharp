@@ -1,0 +1,14 @@
+C:\Users\10940\Desktop\Lista_3\Lista_3\obj\Debug\net8.0\Lista_3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\10940\Desktop\Lista_3\Lista_3\obj\Debug\net8.0\Lista_3.AssemblyInfoInputs.cache
+C:\Users\10940\Desktop\Lista_3\Lista_3\obj\Debug\net8.0\Lista_3.AssemblyInfo.cs
+C:\Users\10940\Desktop\Lista_3\Lista_3\obj\Debug\net8.0\Lista_3.csproj.CoreCompileInputs.cache
+C:\Users\10940\Desktop\Lista_3\Lista_3\bin\Debug\net8.0\Lista_3.exe
+C:\Users\10940\Desktop\Lista_3\Lista_3\bin\Debug\net8.0\Lista_3.deps.json
+C:\Users\10940\Desktop\Lista_3\Lista_3\bin\Debug\net8.0\Lista_3.runtimeconfig.json
+C:\Users\10940\Desktop\Lista_3\Lista_3\bin\Debug\net8.0\Lista_3.dll
+C:\Users\10940\Desktop\Lista_3\Lista_3\bin\Debug\net8.0\Lista_3.pdb
+C:\Users\10940\Desktop\Lista_3\Lista_3\obj\Debug\net8.0\Lista_3.dll
+C:\Users\10940\Desktop\Lista_3\Lista_3\obj\Debug\net8.0\refint\Lista_3.dll
+C:\Users\10940\Desktop\Lista_3\Lista_3\obj\Debug\net8.0\Lista_3.pdb
+C:\Users\10940\Desktop\Lista_3\Lista_3\obj\Debug\net8.0\Lista_3.genruntimeconfig.cache
+C:\Users\10940\Desktop\Lista_3\Lista_3\obj\Debug\net8.0\ref\Lista_3.dll
